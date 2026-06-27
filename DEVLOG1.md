@@ -2,7 +2,7 @@
 
 I currently only have the OS welcome page.
 
-## What I have done
+## What I currently have done
 
 - Added a heading and introduction for IerOS
 - Included a picture of my cats
