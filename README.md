@@ -1,10 +1,10 @@
 # IerOS
 
-IerOS is a simple project by Ierotheos. Right now, it only has the OS welcome page.
+IerOS is a simple project by Ierotheos. Right now, it currently only has the OS welcome page.
 
 ## Current content
 
-- `index.html` — the OS welcome page with a welcome message, introduction, and a photo of the creator's cats.
+- `index.html` — the OS welcome page with a welcome message, introduction, and a photo of my cats.
 
 ## What IerOS currently has
 
